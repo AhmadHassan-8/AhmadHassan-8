@@ -20,11 +20,14 @@ Currently working at **Ciena** (Global Leader in Intelligent Networking) as a Da
 
 ## Featured Projects
 
+### 🏠 [VEN Chat — AI Apartment Assistant](https://github.com/AhmadHassan-8/VEN-chatbot)
+Full-stack AI assistant for residential buildings — answers tenant questions about maintenance, parking, and amenities instantly using RAG. Built with n8n, Pinecone, Redis session memory, and a custom Next.js frontend. Deployed as a complete product, not a demo.
+
+### 🤖 [AI Content Refinement System](https://github.com/AhmadHassan-8/ai-content-refinement)
+5-agent n8n pipeline that generates and self-evaluates content against human-written benchmarks using RAG. Prompt Engineer → Content Creator → Evaluator → Refinement Controller — content only exits when it passes the quality gate. Reduced human review time by 40%.
+
 ### 🚗 [ExplAIn Crash — Accident Anticipation System](https://github.com/AhmadHassan-8)
 Explainable deep learning system that predicts crash events from dash-cam video *seconds before impact*. Built 3D CNNs and Vision Transformers with Grad-CAM visual explanations. Outputs both attention heatmaps and textual reasoning — not just a prediction, but a *why*.
-
-### 🤖 [n8n AI & Automation Workflows](https://github.com/AhmadHassan-8/n8n_projects)
-Production-ready automation workflows covering RAG chatbots, AI agents, web scraping, and sentiment analysis pipelines. Integrates Pinecone, Redis, Supabase, Firecrawl, and Google Gemini.
 
 ### 👶 [Neo Jaundice Classifier](https://github.com/AhmadHassan-8)
 Non-invasive newborn jaundice screening system using deep learning on the NJN dataset (670 images). Benchmarked VGG16, ResNet50, and Xception — achieved 89% accuracy with Xception. Grad-CAM overlays make predictions clinically interpretable, showing exactly which skin regions drove the classification.
